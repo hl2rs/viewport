@@ -231,10 +231,16 @@ footer .icon {
   0% {
     font-variation-settings: "TIME" 1;
   }
+  100% {
+    font-variation-settings: "TIME" 100;
+  }
 }
 @keyframes icon-animation {
   0% {
     font-variation-settings: "TIME" 1;
+  }
+  100% {
+    font-variation-settings: "TIME" 100;
   }
 }
 /* --------------- END USER PREFERS REDUCED MOTION QUERY --------------- */
